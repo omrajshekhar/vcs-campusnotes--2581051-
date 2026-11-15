@@ -17,3 +17,8 @@ Use a feature branch for changes and open a pull request for review.
 
 ## Stuff
 
+
+## Features
+
+- Organize notes by course and topic
+- Keep exam review reminders
