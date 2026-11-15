@@ -14,3 +14,6 @@ Before each exam, review the notes for each course and list topics that need mor
 ## Contributing
 
 Use a feature branch for changes and open a pull request for review.
+
+## Stuff
+
