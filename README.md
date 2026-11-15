@@ -24,3 +24,7 @@ Use a feature branch for changes and open a pull request for review.
 - Keep exam review reminders
 
 Note: Notes are stored as plain text files inside each course folder.
+
+## Usage
+
+Create a folder for each course and add one file per topic.
